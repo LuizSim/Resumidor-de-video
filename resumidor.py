@@ -9,9 +9,6 @@ from pathlib import Path
 import threading
 
 # Configuração da API
-
-#Este código é um resumidor de video do youtube feito por Luiz Simão, este aqui salva os resumos no google docs
-#Se quiseres o salvamento em outra platarforma eu modifico e faço um para você
 genai.configure(api_key="AIzaSyBf7nGW5QwUiTWcZt-5EUliIDZvysmLunQ")
 
 # Diretório de downloads
