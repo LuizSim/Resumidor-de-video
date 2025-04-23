@@ -9,7 +9,7 @@ from pathlib import Path
 import threading
 
 # Configuração da API
-genai.configure(api_key="AIzaSyBf7nGW5QwUiTWcZt-5EUliIDZvysmLunQ")
+genai.configure(api_key="SUA API IA")
 
 # Diretório de downloads
 DOWNLOAD_DIR = Path.home() / "Downloads"
